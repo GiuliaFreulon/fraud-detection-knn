@@ -35,7 +35,7 @@ The dataset consists of two CSV files:
 - **Prediction on Unlabeled Data**:
 <p>The trained model is used to predict fraud on the unlabeled dataset, and the results are saved in a new CSV file.
 
-- The complete report with the solutions can be accessed in this [PDF](pdf/Relatorio - IA.pdf)
+- The complete report with the solutions can be accessed in this [PDF](pdf/Relatorio.pdf)
 
 ## Installation and Usage
 To run this project, follow these steps:
